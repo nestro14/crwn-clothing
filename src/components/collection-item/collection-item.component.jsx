@@ -13,6 +13,6 @@ const ColletionItem = ({ id, price, imageUrl, name }) => (
             <span className='price'>{price}</span>
         </div>
     </div>
-)
+);
 
 export default ColletionItem;
